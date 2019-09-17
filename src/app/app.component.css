@@ -1,0 +1,30 @@
+.main {
+    background-color: rgb(31, 34, 34);
+    height: 50px;
+}
+
+.head-main {
+    padding-top: 15px;
+}
+
+.body-main {
+    padding-top: 75px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.responsive-i {
+    width: auto;
+    height: auto;
+}
+
+.tcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
